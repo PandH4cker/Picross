@@ -12,12 +12,12 @@
 
 ---
 ### The main menu:
-<img src="./Capture2.PNG"
+<img src="./MainMenu.png"
 	 alt="Main Menu"
 	 style="float: left; margin-right: 10px;" />
 
 
 ### In-game:
-<img src="./Capture.PNG"
+<img src="./InGame.png"
 	 alt="In-Game"
 	 style="float: left; margin-right: 10px;" />
