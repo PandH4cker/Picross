@@ -2,7 +2,7 @@
 ---
 ## Author: Raphael Dray.
 ---
-> This program is a game, a ![Picross/Hanjie](https://fr.wikipedia.org/wiki/Picross).
+> This program is a game, a [Picross/Hanjie](https://fr.wikipedia.org/wiki/Picross).
 > It can be open in **terminal** using **Ncurses & Sox(Sound Player Librairie) Librairies**.
 
 
@@ -12,12 +12,12 @@
 
 ---
 ### The main menu:
-<img src="Capture2.PNG"
+<img src="./Capture2.PNG"
 	 alt="Main Menu"
 	 style="float: left; margin-right: 10px;" />
 
 
 ### In-game:
-<img src="Capture.PNG"
+<img src="./Capture.PNG"
 	 alt="In-Game"
 	 style="float: left; margin-right: 10px;" />
