@@ -21,3 +21,5 @@
 <img src="./InGame.png"
 	 alt="In-Game"
 	 style="float: left; margin-right: 10px;" />
+
+### [READ THE LICENSE](https://github.com/MrrRaph/Picross/blob/master/LICENSE.md)
